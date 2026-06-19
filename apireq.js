@@ -22,7 +22,7 @@ function getCurrentPosition() {
 
 // Required User-Agent header for the api.weather.gov service
 const headers = {
-    'User-Agent': 'MyWeatherApp (your-email@example.com)'
+    'Weather APP': 'https://tjhuck.github.io/Web-Weather-App/ (testemail123@example.com)'
 };
 
 async function fetchNOAAWeather() {
